@@ -1,0 +1,29 @@
+html{
+  font-size:62.5%;
+  background: darkred;
+  color:white;
+}
+label{
+  font-size:3rem; 
+  display:block;
+  margin-left:5%;
+  margin-top:10%;
+}
+button{
+  display:block;
+  margin:4% auto;
+  padding:10px 15px;
+  font-variant:small-caps;
+  font-size:2rem;
+}
+input{
+  margin-top:10%;
+}
+form{
+  display:flex;
+  margin:0 auto; 
+}
+h4{
+  font-size:2rem;
+  margin-left:5%;
+}
